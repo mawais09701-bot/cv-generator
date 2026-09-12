@@ -78,9 +78,10 @@ Add form validation
 Allow users to reorder CV sections
 
 Repository
-
 [GitHub Repository](https://github.com/mawais09701-bot/cv-generator)
 
-Author
+Live Preview 
+[Netlify](https://mawais-cv-builder.netlify.app/)
 
+Author
 Muhammad Awais
